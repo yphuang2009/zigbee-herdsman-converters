@@ -9,7 +9,7 @@ import * as tuya from "../lib/tuya";
 import type {DefinitionWithExtend, Fz, Tz} from "../lib/types";
 import * as utils from "../lib/utils";
 
-const e = exposes.presets;
+const e = exposes.presets;    
 const ea = exposes.access;
 
 interface CandeoRotaryRemoteControl {
